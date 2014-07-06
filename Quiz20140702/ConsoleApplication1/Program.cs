@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Quiz20140702
+namespace ConsoleApplication1
 {
     class Program
     {
